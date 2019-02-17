@@ -1,0 +1,26 @@
+.headersection { background-color: #066d06 ;}
+.social a { background: #1d941dd6 ;}
+.searchbtn input[type="text"]{background: #066d06; border: 1px solid #fff;}
+.searchbtn input[type="submit"]{ border: 1px solid #4bc2e6;}
+.searchbtn input[type="submit"]:hover{ background: #52c252; border: 1px solid #034703; }
+.navsection {
+background: none repeat scroll 0 0 #198e19;}
+.navsection ul li {
+border-right: 1px solid #2ee02e;
+border-left: 1px solid #0f5606d6;
+}
+.samepost h2 a {color: #026200; }
+.maincontain,.saidbar {background-color: #B5EAB5;}
+.samepost img { border: 1px solid #198E19;}
+.containsection {border: 1px solid #198E19;}
+.samesidebar h2 {background-color: #198e19; border-bottom: 2px solid #054005;}
+.footersection { background-color: #066D06; color: #fff;}
+.pagination a { color: #333; border: 1px solid #066D06; background: #198E19 none repeat scroll 0 0; }
+.pagination a:hover { color: #fff; background: #066D06 none repeat scroll 0 0; }
+.samepost h2, .about h2 {color: #026200;}
+.about img { background: #fff; border: 2px solid #333;}
+.relatepost h2 {
+background: #066D06;
+color: #fff !important;
+border-bottom: 2px solid #52C252 !important;
+}
